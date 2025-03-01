@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Sarah dos Santos Oliveira
+Matricula: 896409
 
 ## Tela de inspeção com navegador
-
+![Print da inspeção de conexão](testeConexao.jpg)
 
 ## Tela de projeto no Replit
-
+![Print da página no replit](paginaReplit.jpg)
