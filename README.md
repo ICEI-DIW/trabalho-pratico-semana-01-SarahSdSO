@@ -3,8 +3,8 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: Sarah dos Santos Oliveira
-Matricula: 896409
+Nome: 
+Matricula: 
 
 ## Tela de inspeção com navegador
 
